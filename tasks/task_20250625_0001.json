@@ -1,0 +1,12 @@
+{
+  "id": "task_20250625_0001",
+  "created_by": "friday",
+  "status": "pending",
+  "type": "terminal",
+  "priority": "normal",
+  "request": "Initialize OpenClaw workshop — verify system readiness and report current macOS version, uptime, and available disk space",
+  "result": null,
+  "created_at": "2025-06-25T12:00:00+05:30",
+  "updated_at": "2025-06-25T12:00:00+05:30",
+  "timeout_at": "2025-06-25T13:00:00+05:30"
+}
