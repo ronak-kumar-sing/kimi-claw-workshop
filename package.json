@@ -1,0 +1,29 @@
+{
+  "name": "kimi-claw-workshop",
+  "version": "1.0.0",
+  "description": "Kimi Claw — Conversational Remote Agent for Friday AI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "ai",
+    "telegram",
+    "bot",
+    "assistant",
+    "openclaw"
+  ],
+  "author": "Ronak Kumar Singh",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0",
+    "jest": "^29.7.0"
+  }
+}
